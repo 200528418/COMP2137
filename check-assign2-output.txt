@@ -1,0 +1,23 @@
+---Host/Student info----
+
+Running on Sat 06 Apr 2024 01:56:16 PM EDT
+Run by student - () on host
+ Static hostname: generic-vm
+      Machine ID: 8b0c348829e5472083eab4381ea99517
+Operating System: Ubuntu 22.04.4 LTS
+e6dfec9ad4ca4733ceb9ff3a4c07b59f  ./check-assign2-script.sh - e6dfec9ad4ca4733ceb9ff3a4c07b59f  -
+------------------------
+
+---Start of Assignment2.sh Check------
+---Running makecontainers.sh----------
+Deleting any existing target containers
+Deleting any existing openwrt container
+Network lan deleted
+Network mgmt deleted
+Checking for sudo
+sudo access ok
+Adding hostvm to /etc/hosts file if necessary
+Network lan created
+Network mgmt created
+Creating server1
+Retrieving image: Unpack: 100% (293.66MB/s)Unable to create authorization object for operation: Authorization objects of type "project" require 0 components to be uniquely identifiable (interrupt two more times to force)                                                                                                                                                                                  Unable to create authorization object for operation: Authorization objects of type "project" require 0 components to be uniquely identifiable (interrupt two more times to force)                                                                                                                                                                                  Failed to create server1 container!
